@@ -15,9 +15,10 @@ Desarrollo web 🌐
 Desarrollo móvil 📱
 Mis repositorios
 
-TrabajosSENA: Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁
-JesusGonzalez-ADSO-2694679: Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁
-Monolito-Tienda-de-Manolo: Repositorio que contiene un proyecto de una tienda de ropa en Java. 👚
+TrabajosSENA:                   Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁
+JesusGonzalez-ADSO-2694679:     Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁
+Monolito-Tienda-de-Manolo:      Repositorio que contiene un proyecto de una tienda de ropa en Java. 👚
 Contacto
 
-Puedes contactarme por correo electrónico a [correo electrónico] o por LinkedIn a [enlace de LinkedIn]. 📩
+Puedes contactarme por correo electrónico a [bonillayanuard@gmail.com] o por,
+LinkedIn a [www.linkedin.com/in/yanuard-bonilla-822a85247]. 📩
