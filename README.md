@@ -6,7 +6,7 @@ Acerca de mí 🕵️
 ¡Hola! 👋 Soy Yanuard Bonilla, un estudiante de Tecnología en Análisis y Desarrollo de Software del SENA. Tengo un interés particular en la programación 💻 y la resolución de problemas 🕵️. Estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades 📝.
 
 Mis habilidades
-
+TrabajosSena
 Programación básica en Java 🚀
 Programación orientada a objetos 🏢
 Algoritmos y estructuras de datos 🧮
