@@ -5,18 +5,18 @@ Trabajos, Evidencias del tecnologo Sena en ADSO
 
 ¡Hola! 👋 Soy Yanuard Bonilla, un estudiante de Tecnología en Análisis y Desarrollo de Software del SENA. Tengo un interés particular en la programación 💻 y la resolución de problemas 🕵️. Estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades 📝.
 
-##Mis habilidades
+## Mis habilidades
+-Programación básica en Java 🚀
+-Programación orientada a objetos 🏢
+-Algoritmos y estructuras de datos 🧮
+-Bases de datos 💾
+-Desarrollo web 🌐
+-Desarrollo móvil 📱
 
-Programación básica en Java 🚀
-Programación orientada a objetos 🏢
-Algoritmos y estructuras de datos 🧮
-Bases de datos 💾
-Desarrollo web 🌐
-Desarrollo móvil 📱
+## Mis repositorios
 
-### Mis repositorios
+### 📁 TrabajosSENA-ADSO:
 
-📁 TrabajosSENA-ADSO:
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁
 📁 JesusGonzalez-ADSO-2694679:
 Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁
