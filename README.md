@@ -1,16 +1,23 @@
-### Hi there 👋
+Yanuard-Bonilla
+Trabajos, Evidencias del tecnologo Sena en ADSO
 
-<!--
-**Y-S-500/Y-S-500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí 🕵️
 
-Here are some ideas to get you started:
+¡Hola! 👋 Soy Yanuard Bonilla, un estudiante de Tecnología en Análisis y Desarrollo de Software del SENA. Tengo un interés particular en la programación 💻 y la resolución de problemas 🕵️. Estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades 📝.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis habilidades
+
+Programación básica en Java 🚀
+Programación orientada a objetos 🏢
+Algoritmos y estructuras de datos 🧮
+Bases de datos 💾
+Desarrollo web 🌐
+Desarrollo móvil 📱
+Mis repositorios
+
+TrabajosSENA: Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁
+JesusGonzalez-ADSO-2694679: Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁
+Monolito-Tienda-de-Manolo: Repositorio que contiene un proyecto de una tienda de ropa en Java. 👚
+Contacto
+
+Puedes contactarme por correo electrónico a [correo electrónico] o por LinkedIn a [enlace de LinkedIn]. 📩
