@@ -21,7 +21,9 @@ Repositorio que contiene los trabajos realizados durante mi formación en el SEN
 - 📁 JesusGonzalez-ADSO-2694679.
 Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️. 
 - 📁 monolito-software-Inventory.
-Repositorio que contiene un proyecto de una tienda en Java 💾. 
+Repositorio que contiene un proyecto de una tienda en Java 💾.
+- 📁 RepasoUbicacion
+  Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de datos y Java 💾.
 
 ### Contacto
 Puedes contactarme por correo electrónico a [bonillayanuard@gmail.com],
