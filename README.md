@@ -7,20 +7,20 @@ Trabajos, Evidencias del tecnologo Sena en ADSO
 
 ## Mis habilidades
 
--Programación básica en Java 🚀
--Programación orientada a objetos 🏢
--Algoritmos y estructuras de datos 🧮
--Bases de datos 💾
--Desarrollo web 🌐
--Desarrollo móvil 📱
+- Programación básica en Java 🚀.
+- Programación orientada a objetos 🏢.
+- Algoritmos y estructuras de datos 🧮.
+- Bases de datos 💾.
+- Desarrollo web 🌐.
+- Desarrollo móvil 📱.
 
 ## Mis repositorios
 
-### 📁 TrabajosSENA-ADSO:
+ 📁 TrabajosSENA-ADSO.
+- Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁.
+📁 JesusGonzalez-ADSO-2694679.
+Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁.
 
-Repositorio que contiene los trabajos realizados durante mi formación en el SENA. 📁
-📁 JesusGonzalez-ADSO-2694679:
-Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González. 📁
 Monolito-Tienda-de-Manolo: Repositorio que contiene un proyecto de una tienda de ropa en Java. 👚
 
 ### Contacto
