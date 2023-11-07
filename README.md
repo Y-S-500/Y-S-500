@@ -16,11 +16,11 @@ Trabajos, Evidencias del tecnologo Sena en ADSO
 
 ## Mis repositorios
 
-📁 TrabajosSENA-ADSO.
+- 📁 TrabajosSENA-ADSO.
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
-📁 JesusGonzalez-ADSO-2694679.
-Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️.
-📁 monolito-software-Inventory.
+- 📁 JesusGonzalez-ADSO-2694679.
+Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️. 
+- 📁 monolito-software-Inventory.
 Repositorio que contiene un proyecto de una tienda en Java 💾. 
 
 ### Contacto
