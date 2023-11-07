@@ -15,18 +15,18 @@ Trabajos, Evidencias del tecnologo Sena en ADSO
 - Desarrollo móvil 📱.
 
 ## Mis repositorios
-* [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO)
-* [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679)
-* [monolito-software-Inventory](https://github.com/Y-S-500/monolito-software-Inventory)
-* [RepasoUbicacion](https://github.com/Y-S-500/RepasoUbicacion)
-- 📁 TrabajosSENA-ADSO.
+* 📁 [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO).
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
-- 📁 JesusGonzalez-ADSO-2694679.
-Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️. 
-- 📁 monolito-software-Inventory.
+
+* 📁 [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679).
+Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️.
+
+* 📁 [monolito-software-Inventory](https://github.com/Y-S-500/monolito-software-Inventory).
 Repositorio que contiene un proyecto de una tienda en Java 💾.
-- 📁 RepasoUbicacion
-  Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de datos y Java 💾.
+
+* 📁 [RepasoUbicacion](https://github.com/Y-S-500/RepasoUbicacion).
+Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de datos y Java 💾.
+
 
 ### Contacto
 Puedes contactarme por correo electrónico a [bonillayanuard@gmail.com],
