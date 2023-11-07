@@ -15,7 +15,10 @@ Trabajos, Evidencias del tecnologo Sena en ADSO
 - Desarrollo móvil 📱.
 
 ## Mis repositorios
-
+* [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO)
+* [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679)
+* [monolito-software-Inventory](https://github.com/Y-S-500/monolito-software-Inventory)
+* [RepasoUbicacion](https://github.com/Y-S-500/RepasoUbicacion)
 - 📁 TrabajosSENA-ADSO.
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
 - 📁 JesusGonzalez-ADSO-2694679.
