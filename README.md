@@ -33,7 +33,6 @@ Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de da
 * 📁 [MatSystem](https://github.com/Y-S-500/MatSystem).
 Repositorio con el proyecto que se esta realizando para concluir la etapa lectiva 🏢.   
 
-https://github.com/Y-S-500/Emisora_Proyect
 
 ### Contacto
 Puedes contactarme por correo electrónico a [bonillayanuard@gmail.com],
