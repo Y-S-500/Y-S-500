@@ -1,5 +1,5 @@
 # Yanuard-Bonilla
-Trabajos, Evidencias del tecnologo Sena en ADSO
+Trabajos y Evidencias del tecnologo Sena en ADSO
 
 ## Acerca de mí
 
