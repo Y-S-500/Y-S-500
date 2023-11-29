@@ -1,9 +1,8 @@
 # Yanuard-Bonilla
-Trabajos y Evidencias del tecnologo Sena en ADSO
 
 
 
-<h1 align="center"><b>Hola, soy David</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <div style="text-align:center;">
 
@@ -22,6 +21,12 @@ Trabajos y Evidencias del tecnologo Sena en ADSO
 - Bases de datos 💾.
 - Desarrollo web 🌐.
 - Desarrollo móvil 📱.
+
+  ## Tecnologias 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,idea,java,js,md,mysql,nextjs,postman,react,laravel,wordpress,tailwind,vscode&perline=14" />
+  </a>
 
 ## Mis repositorios
 * 📁 [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO).
