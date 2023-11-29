@@ -1,14 +1,12 @@
 # Yanuard-Bonilla
 
-
-
-
-
 <div style="text-align:center;">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A8F7&random=false&width=500&lines=Software+analysis+and+development+student;Passionate+about+technical+excellence;Love+learning+and+sharing+knowledge;Creatively+and+precisely+solves+problems" alt="Typing SVG" /></a>
 
 </div>
+
+
 ## Acerca de mí
 
 ¡Hola! 👋 Soy Yanuard Bonilla, un estudiante de Tecnología en Análisis y Desarrollo de Software del SENA. Tengo un interés particular en la programación 💻 y la resolución de problemas 🕵️. Estoy siempre buscando nuevas formas de aprender y mejorar mis habilidades 📝.
