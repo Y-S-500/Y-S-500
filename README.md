@@ -1,3 +1,6 @@
+<em>
+<img src="https://github.com/Y-S-500/Yanuard-Bonilla/raw/main/.github/readme-bg.gif" width="100%" height="100%" alt="fondo de pantalla en movimiento">
+</em>
 
 
 #<em>  Yanuard-Bonilla  </em>
