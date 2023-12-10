@@ -1,3 +1,5 @@
+body-bg: url([https://example.com/image.jpg](https://www.bing.com/ck/a?!&&p=eb8368c2e5b6375eJmltdHM9MTcwMjE2NjQwMCZpZ3VpZD0yZGEyN2YzZC1kODRkLTZmYTctMTlkMi02Y2UxZDk0YzZlZmImaW5zaWQ9NTU5OQ&ptn=3&ver=2&hsh=3&fclid=2da27f3d-d84d-6fa7-19d2-6ce1d94c6efb&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFqZW4gaGFrZXImRk9STT1JUUZSQkEmaWQ9MDQwNzM2Mjk3QzY3RDNDMDI1OTlFQzkxQjM0QkU1MEI3MzkxQzVGRQ&ntb=1))
+
 
 
 <em> # Yanuard-Bonilla  </em>
