@@ -1,5 +1,5 @@
 <em>
-<img src="[https://images.pexels.com/photos/2456728/pexels-photo-2456728.jpeg](https://th.bing.com/th/id/R.5ed9579abba38317164f2570f224e132?rik=%2fsWRcwvlS7OR7A&pid=ImgRaw&r=0)" width="100%" height="100%" alt="Imagen de fondo">
+<img src="(https://th.bing.com/th/id/R.5ed9579abba38317164f2570f224e132?rik=%2fsWRcwvlS7OR7A&pid=ImgRaw&r=0)" width="100%" height="100%" alt="Imagen de fondo">
 </em>
 
 #<em>  Yanuard-Bonilla  </em>
