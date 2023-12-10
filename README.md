@@ -1,12 +1,16 @@
-<em>
-<img src="(https://th.bing.com/th/id/R.5ed9579abba38317164f2570f224e132?rik=%2fsWRcwvlS7OR7A&pid=ImgRaw&r=0)" width="100%" height="100%" alt="Imagen de fondo">
-</em>
+
+
 
 #<em>  Yanuard-Bonilla  </em>
 
 <div style="text-align:center;">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A8F7&random=false&width=500&lines=Software+analysis+and+development+student;Passionate+about+technical+excellence;Love+learning+and+sharing+knowledge;Creatively+and+precisely+solves+problems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A8F7&random=false&width=500&lines=Software+analysis+and+development+student;Passionate+about+technical+excellence;Love+learning+and+sharing+knowledge;Creatively+and+precisely+solves+problems" alt="Typing SVG" />
+</a>
+<div style="position: relative; top: 0; left: 0; background-color: green; color: white; padding: 5px 10px;">
+  Software analysis and development student
+</div>
 
 </div>
 
