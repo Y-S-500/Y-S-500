@@ -8,9 +8,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A8F7&random=false&width=500&lines=Software+analysis+and+development+student;Passionate+about+technical+excellence;Love+learning+and+sharing+knowledge;Creatively+and+precisely+solves+problems"  background-color: green; alt="Typing SVG" />
 </a>
-<div style="position: relative; top: 0; left: 0; color: white; padding: 5px 10px;">
-  Software analysis and development student
-</div>
 
 </div>
 
