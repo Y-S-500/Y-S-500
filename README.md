@@ -1,7 +1,6 @@
-body-bg: #red
 
 
-<em> # Yanuard-Bonilla  </em>
+#<em>  Yanuard-Bonilla  </em>
 
 <div style="text-align:center;">
 
