@@ -32,7 +32,7 @@
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
 
 * 📁 [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679).
-Repositorio que contiene los trabajos realizados para el instructor Jesús Ariel González ⌨️.
+Repositorio que contiene los trabajos realizados, para el instructor Jesús Ariel González Bonilla lider de la Ficha 2694679 </> ⌨️.
 
 * 📁 [Emisora_Proyect](https://github.com/Y-S-500/Emisora_Proyect).
 Repositorio que contiene un proyecto de emisora con fundamentos en bases de datos y Java 🧮.
