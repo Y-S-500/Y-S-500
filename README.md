@@ -26,7 +26,7 @@
 - Desarrollo móvil 📱.
 
 
-<br>
+
 ## Mis repositorios de evidencias
 
 * 📁 [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679).
