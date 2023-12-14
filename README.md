@@ -26,7 +26,7 @@
 - Desarrollo móvil 📱.
 
 
-
+<br>
 ## Mis repositorios de evidencias
 
 * 📁 [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679).
@@ -34,6 +34,8 @@ Repositorio que contiene los trabajos realizados, para el instructor Jesús Arie
 
 * 📁 [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO).
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
+
+
 
 ### Mis Proyectos
 
