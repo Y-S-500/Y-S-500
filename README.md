@@ -35,7 +35,7 @@ Repositorio que contiene los trabajos realizados, para el instructor Jesús Arie
 * 📁 [TrabajosSENA-ADSO](https://github.com/Y-S-500/TrabajosSena-ADSO).
 Repositorio que contiene los trabajos realizados durante mi formación en el SENA 🛠️.
 
-### Mis repositorios
+### Mis Proyectos
 
 
 
