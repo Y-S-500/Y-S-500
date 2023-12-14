@@ -27,7 +27,7 @@
 
 
 
-## Mis repositorios
+## Mis repositorios de evidencias
 
 * 📁 [JesusGonzalez-ADSO-2694679](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679).
 Repositorio que contiene los trabajos realizados, para el instructor Jesús Ariel González Bonilla lider de la Ficha 2694679 </> ⌨️.
