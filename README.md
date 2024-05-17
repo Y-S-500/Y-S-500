@@ -58,7 +58,7 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
 * 📁 [RepasoUbicacion](https://github.com/Y-S-500/RepasoUbicacion).
 Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de datos y Java 💾.
 
-* 📁 [MatSystem](https://github.com/Y-S-500/MatSystem).
+* 📁 [MatSystem]([https://github.com/Y-S-500/MatSystem](https://github.com/Y-S-500/MatSystem-.git).
 Repositorio con el proyecto que se esta realizando para concluir la etapa lectiva 🏢.   
 
   ## Tecnologias 
