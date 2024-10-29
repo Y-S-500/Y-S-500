@@ -64,7 +64,7 @@ Repositorio con el proyecto que se esta realizando para concluir la etapa lectiv
   ## Tecnologias 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,github,azure,csharp,js,ts,html,angular,react,nodejs,ionic,mysql,sqlserver&perline=14" />
+<img src="https://skillicons.dev/icons?i=java,github,azure,dotnet,js,ts,html,angular,react,nodejs,ionic,mysql,sqlserver&perline=14" />
   </a>
 
 ### Contacto
