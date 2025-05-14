@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
 
-¡Hola! 👋 Soy Yanuard Bonilla, un estudiante de Tecnología en Análisis y Desarrollo de Software del SENA con pasión por:
+¡Hola! 👋 Soy Yanuard Bonilla, un desarrollador backend con sólidaexperiencia en el ecosistema C# y .NET,apasionado por la tecnología y motivado porlos desafíos. Me entusiasma enfrentarsituaciones que me exigen salir de mi zona deconfort, aprender nuevas herramientas ymetodologías, y mejorar continuamente mishabilidades. Disfruto resolviendo problemascomplejos con soluciones limpias, eficientes yescalables. Mi enfoque está en el desarrollo deaplicaciones robustas, APIs RESTful,optimización de bases de datos y buenasprácticas de arquitectura de software. Estoycomprometido con la mejora continua y conaportar valor a proyectos significativos,manteniéndome actualizado con las últimastendencias y tecnologías del desarrollobackend.
 
 - 💻 Desarrollo de software innovador
 - 🕵️ Resolución creativa de problemas
